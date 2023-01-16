@@ -1,0 +1,28 @@
+{
+  "courses": [ 
+    { 
+      "coursenumber": "1",
+      "name": "Python",
+      "courseLength" :"3 mounths",
+      "description":"react, angular and vue",
+      "startingDate": "september 27"
+    },
+    {
+
+    "coursenumber":"2",
+    "name":"CSS & HTML",
+    "courseLength":"2 mounths",
+    "description":"react, angular and vue",
+    "startingDate":"april 14"
+    },
+    {
+    
+    "coursenumber":"3",
+    "name":"Javascript 4",
+    "courseLength":"5 mounths",
+    "description":"react, angular and vue",
+    "startingDate":"january 12"
+    }
+]
+}
+ 
