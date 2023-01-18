@@ -1,5 +1,5 @@
-import AddTeacher from "../components/AddTeacher"
-import AddCourse from "../components/AddCourse"
+import AddTeacher from "../components/addTeacher/AddTeacher"
+import AddCourse from "../components/addCourse/AddCourse"
 
 function AddPage() {
     return (

@@ -1,8 +1,8 @@
 import { Link, useMatch, useResolvedPath } from "react-router-dom"
 import  ReactDOM  from "react-dom"
 import { Fragment, useState } from "react"
-import AddPage from "../pages/AddPage"
-import "../styles/styles.css"
+import AddPage from "../../pages/AddPage"
+import "../../styles/styles.css"
 
 
 function Navbar () {

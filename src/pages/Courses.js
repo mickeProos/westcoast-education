@@ -1,4 +1,4 @@
-import CourseList from "../components/CourseList";
+import CourseList from "../components/CourseList/CourseList";
 import InfoContext from '../store/InfoContext';
 import React, { useContext} from 'react'
 

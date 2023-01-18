@@ -1,3 +1,12 @@
+reminal 1: npm start
+
+
+terminal 2: npx json-server --watch data/db.json --port 3001
+
+terminal 3: npm test
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

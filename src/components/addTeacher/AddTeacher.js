@@ -1,6 +1,6 @@
 import { useRef } from 'react';
 import { v4 as uuidv4 } from 'uuid';
-import InfoContext from '../store/InfoContext';
+import InfoContext from '../../store/InfoContext';
 import React, { useContext} from 'react'
 
 

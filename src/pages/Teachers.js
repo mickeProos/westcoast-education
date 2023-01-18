@@ -1,4 +1,4 @@
-import TeacherList from "../components/TeacherList";
+import TeacherList from "../components/teacherList/TeacherList";
 import InfoContext from '../store/InfoContext';
 import React, { useContext} from 'react'
 

@@ -26,6 +26,15 @@
       "email": "peter@pan.se",
       "phone": "07011111111",
       "competenceAreas": "Python"
+    },
+    {
+      "firstName": "Carl-Mikael",
+      "lastName": "Roos Wahlbeck",
+      "personalNumber": "121212",
+      "email": "test@test.se",
+      "phone": "0707497444",
+      "competenceAreas": "React",
+      "id": "724a5a3e-b1d3-4a1c-ab04-6d20df88a1fd"
     }
   ],
   "courses": [
