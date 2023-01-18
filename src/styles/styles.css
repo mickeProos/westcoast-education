@@ -14,11 +14,11 @@ body {
 .nav {
   background-color: #333;
   color: white;
-  display: flex;
   justify-content: space-between;
   align-items: stretch;
   gap: 2rem;
   padding: 0 1rem;
+  width: 100%;
 }
 
 .site-title {
@@ -51,7 +51,24 @@ body {
 }
 
 .listelement {
-  padding: 12px;
+  padding-top: 12px;
   line-height: 25px;
   }
   
+  #modal-root {
+    display: inline-block;
+    text-align: right;
+  }
+
+  a {
+    text-decoration: none;
+    color: black;
+  }
+
+  .teacherContainer, .courseContainer {
+    border: 2px solid black;
+  }
+ 
+
+  
+ 
