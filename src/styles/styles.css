@@ -49,3 +49,9 @@ body {
 .nav li:hover {
   background-color: #777;
 }
+
+.listelement {
+  padding: 12px;
+  line-height: 25px;
+  }
+  

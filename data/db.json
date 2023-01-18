@@ -1,58 +1,66 @@
-{ 
- "teachers" : [
-    { 
+{
+  "teachers": [
+    {
+      "id": "1",
       "firstName": "Emil",
       "lastName": "Jönsson",
-      "personalNumber" :"290324",
+      "personalNumber": "290324",
       "email": "Emil@jonsson.se",
       "phone": "07072285971",
       "competenceAreas": "javascript 4"
     },
     {
-
-    "firstName":"Jan",
-    "lastName":"Wahlman",
-    "personalNumber":"640911",
-    "email":"jan@wahlman.se",
-    "phone":"0732121211",
-    "competenceAreas": "HTML & CSS"
+      "id": "2",
+      "firstName": "Jan",
+      "lastName": "Wahlman",
+      "personalNumber": "640911",
+      "email": "jan@wahlman.se",
+      "phone": "0732121211",
+      "competenceAreas": "HTML & CSS"
     },
     {
-    
-    "firstName":"Peter",
-    "lastName":"pan",
-    "personalNumber":"000101",
-    "email":"peter@pan.se",
-    "phone":"07011111111",
-    "competenceAreas": "Python"
-    } 
-],
-
-  "courses" : [ 
-    { 
+      "id": "3",
+      "firstName": "Peter",
+      "lastName": "pan",
+      "personalNumber": "000101",
+      "email": "peter@pan.se",
+      "phone": "07011111111",
+      "competenceAreas": "Python"
+    },
+    {
+      "firstName": "Carl-Mikael",
+      "lastName": "Roos Wahlbeck",
+      "personalNumber": "121212",
+      "email": "test@test.se",
+      "phone": "0707497444",
+      "competenceAreas": "React",
+      "id": "724a5a3e-b1d3-4a1c-ab04-6d20df88a1fd"
+    }
+  ],
+  "courses": [
+    {
       "id": "1",
       "coursenumber": "1",
       "name": "Python",
-      "courseLength" :"3 mounths",
-      "description":"react, angular and vue",
+      "courseLength": "3 mounths",
+      "description": "react, angular and vue",
       "startingDate": "september 27"
     },
     {
-    "id": "2",
-    "coursenumber":"2",
-    "name":"CSS & HTML",
-    "courseLength":"2 mounths",
-    "description":"react, angular and vue",
-    "startingDate":"april 14"
+      "id": "2",
+      "coursenumber": "2",
+      "name": "CSS & HTML",
+      "courseLength": "2 mounths",
+      "description": "react, angular and vue",
+      "startingDate": "april 14"
     },
     {
-    "id": "3",
-    "coursenumber":"3",
-    "name":"Javascript 4",
-    "courseLength":"5 mounths",
-    "description":"react, angular and vue",
-    "startingDate":"january 12"
+      "id": "3",
+      "coursenumber": "3",
+      "name": "Javascript 4",
+      "courseLength": "5 mounths",
+      "description": "react, angular and vue",
+      "startingDate": "january 12"
     }
-]
-
+  ]
 }
